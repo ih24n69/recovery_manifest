@@ -4,7 +4,7 @@ This repo is ~2.6GB
 ###To initialize the main repository:
 
 ````
-repo init -u https://github.com/marduk191/recovery_manifest.git -b android-5.1
+repo init -u https://github.com/ih24n69/recovery_manifest.git -b android-5.1
 ````
 Then add any recovery/device trees/kernels you need to a file (one XML for each device) and add them to the .repo/local_manifests folder of your initialized repo folder.
 
